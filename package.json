@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "scripts": {
+    "start": "parcel index.html --no-cache",
+    "build": "parcel build index.html"
+  },
+  "author": "Shahd Elhlwaney",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "svgo": "^3.3.2",
+    "util": "^0.12.5"
+  },
+  "dependencies": {
+    "18": "^0.0.0",
+    "core-js": "^3.40.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.85.1"
+  }
+}
